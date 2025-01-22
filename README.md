@@ -8,3 +8,7 @@ Describe your project here.
 * `rye sync`で同期
 * `rye add [package名]` でパッケージを追加
 * 
+
+起動
+`source "$HOME/.rye/env"`
+`python src/entry_exit_mnager/app.py`

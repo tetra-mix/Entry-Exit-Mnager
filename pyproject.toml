@@ -9,6 +9,7 @@ dependencies = [
     "pyscard>=2.2.1",
     "flet==0.25.2",
     "flet-desktop==0.25.2",
+    "requests>=2.32.3",
 ]
 readme = "README.md"
 requires-python = ">= 3.8"
